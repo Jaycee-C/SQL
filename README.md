@@ -2,7 +2,7 @@
 
 ## Basic Joins
 
-|  Question    |  Answer    |        |
+|  Question    |  Answer    | Difficulty       |
 |--------------|--------------|--------|
 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jaycee-C/SQL/blob/main/SQL50/%20197.%20Rising%20Temperature.sql) |  EASY  |
 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jaycee-C/SQL/blob/main/SQL50/1661.Average%20Time%20of%20Process%20per%20Machine.sql) |  EASY  |
